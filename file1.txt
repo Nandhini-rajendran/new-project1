@@ -10,7 +10,7 @@
         <header>
 
             <div class="header-container">
-                <a href ="home.html" class="logo">
+                <a href ="index.html" class="logo">
                     <h1>Driving <span class="school">school</span></h1>
                 </a>
                 <nav>
